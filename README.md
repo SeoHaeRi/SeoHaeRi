@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **SeoHaeRi/SeoHaeRi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,11 +19,11 @@ Here are some ideas to get you started:
 
 ### <div align="center">I'm </div>  
   
-
+<!-- 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/SeoHaeRi)  
   
 
-- 🌱 I’m currently learning React, Node.js  
+- 🌱 I’m currently learning React, Node.js   -->
   
 
 <br/>  
@@ -74,17 +72,6 @@ Here are some ideas to get you started:
 </div>
 
 </td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/SeoHaeRi" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
 <br/>  
 
