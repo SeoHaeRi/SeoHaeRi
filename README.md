@@ -17,15 +17,6 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">1일 1커밋 실천중인 개발자 서해리입니다</div>  
-  
-<!-- 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/SeoHaeRi)  
-  
-
-- 🌱 I’m currently learning React, Node.js   -->
-  
-
 <br/>  
 
 
